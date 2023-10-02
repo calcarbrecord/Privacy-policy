@@ -8,8 +8,8 @@ By following this step:
  - Click on the delete account button.
 (The account will be deleted, and send a request to delete all of your information. After that, we receive your request we will delete all of your data.)
 
-Or contact us at Email: **Email** 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+Or contact us at Email: Kunlanit26@gmail.com
+
 
 
 
@@ -23,4 +23,4 @@ Cal Carb Record
 คลิกที่ปุ่มลบบัญชี
 (บัญชีของคุณจะถูกลบและส่งคำขอให้ลบข้อมูลทั้งหมดของคุณ หลังจากนั้น เมื่อเราได้รับคำขอของคุณ เราจะลบข้อมูลทั้งหมดของคุณ)
 
-หรือติดต่อเราได้ที่ Email: **Email**
+หรือติดต่อเราได้ที่ Email: Kunlanit26@gmail.com
