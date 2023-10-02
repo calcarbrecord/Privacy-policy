@@ -1,4 +1,4 @@
-//privacy&policy
+
 English version
 Privacy Policy for Cal Carb Record Application
 -------------------------------------------------------------------------------------------------
@@ -43,14 +43,14 @@ Your Choices
 You may choose to:
 
 Review and update your personal information within the App.
-Delete your account and associated data by contacting us at Email: **Email** .
+Delete your account and associated data by contacting us at Email: Kunlanit26@gmail.com
 Updates to this Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the updated policy within the App or by other appropriate means.
 
 Contact Us
 
-If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at Email: **Email** .
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at Email: Kunlanit26@gmail.com
 
 Please ensure that you customize the above privacy policy to fit your specific application and comply with applicable privacy laws and regulations in your jurisdiction. It's also essential to keep your privacy policy up to date and inform users of any changes.
 
@@ -98,14 +98,14 @@ Privacy Policy for Cal Carb Record Application
 คุณอาจเลือกที่จะ:
 
 ตรวจสอบและอัปเดตข้อมูลส่วนตัวของคุณภายในแอป
-ลบบัญชีของคุณและข้อมูลที่เกี่ยวข้องโดยติดต่อเราที่อีเมล: **Email**
+ลบบัญชีของคุณและข้อมูลที่เกี่ยวข้องโดยติดต่อเราที่อีเมล: Kunlanit26@gmail.com
 อัปเดตนโยบายความเป็นส่วนตัวนี้
 
 เราอาจอัปเดตนโยบายความเป็นส่วนตัวนี้เป็นครั้งคราวเพื่อสะท้อนถึงการเปลี่ยนแปลงในทางปฏิบัติของเราหรือด้วยเหตุผลอื่น ๆ ด้านการดำเนินงาน กฎหมาย หรือด้านกฎระเบียบ เราจะแจ้งให้คุณทราบถึงการเปลี่ยนแปลงเนื้อหาโดยการโพสต์นโยบายที่อัปเดตภายในแอปหรือด้วยวิธีอื่นที่เหมาะสม
 
 ติดต่อเรา
 
-หากคุณมีคำถาม ความกังวล หรือคำขอเกี่ยวกับนโยบายความเป็นส่วนตัวนี้ โปรดติดต่อเราที่อีเมล: **Email**
+หากคุณมีคำถาม ความกังวล หรือคำขอเกี่ยวกับนโยบายความเป็นส่วนตัวนี้ โปรดติดต่อเราที่อีเมล: Kunlanit26@gmail.com
 
 โปรดตรวจสอบให้แน่ใจว่าคุณปรับแต่งนโยบายความเป็นส่วนตัวข้างต้นให้ตรงกับแอปพลิเคชันเฉพาะของคุณ และปฏิบัติตามกฎหมายความเป็นส่วนตัวและกฎระเบียบที่เกี่ยวข้องในเขตอำนาจของคุณ นอกจากนี้ยังเป็นสิ่งจำเป็นที่จะรักษานโยบายความเป็นส่วนตัวของคุณให้ทันสมัยและแจ้งให้ผู้ใช้ทราบถึงการเปลี่ยนแปลงใด ๆ
 
